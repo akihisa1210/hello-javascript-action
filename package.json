@@ -1,0 +1,24 @@
+{
+  "name": "hello-javascript-action",
+  "version": "1.0.0",
+  "description": "https://docs.github.com/ja/actions/creating-actions/creating-a-javascript-action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akihisa1210/hello-javascript-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akihisa1210/hello-javascript-action/issues"
+  },
+  "homepage": "https://github.com/akihisa1210/hello-javascript-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}
