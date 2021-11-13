@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: akihisa1210/hello-javascript-action@v1.2
+        uses: akihisa1210/hello-javascript-action@v1.3
         with:
           who-to-greet: "Mona the Octocat"
       - name: Get the output time
